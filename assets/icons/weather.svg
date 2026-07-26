@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<defs>
+<linearGradient id="wb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f8de8"/><stop offset="1" stop-color="#0a5fc0"/></linearGradient>
+<radialGradient id="sun" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffe27a"/><stop offset="1" stop-color="#ffb020"/></radialGradient>
+<linearGradient id="cl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#d7e3f0"/></linearGradient>
+</defs>
+<rect x="12" y="12" width="232" height="232" rx="52" fill="url(#wb)"/>
+<circle cx="96" cy="96" r="42" fill="url(#sun)"/>
+<g fill="url(#cl)">
+<ellipse cx="150" cy="160" rx="58" ry="38"/><ellipse cx="106" cy="168" rx="40" ry="28"/><ellipse cx="188" cy="170" rx="34" ry="24"/>
+<rect x="92" y="158" width="120" height="34" rx="17"/>
+</g>
+</svg>
