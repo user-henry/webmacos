@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<defs>
+<linearGradient id="pv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ececf1"/></linearGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7cc3f8"/><stop offset="1" stop-color="#3a8fe0"/></linearGradient>
+</defs>
+<rect x="46" y="30" width="150" height="186" rx="14" fill="url(#pv)" stroke="#d2d2da" stroke-width="2"/>
+<rect x="66" y="52" width="110" height="86" rx="8" fill="url(#sky)"/>
+<circle cx="92" cy="78" r="12" fill="#ffe9a8"/>
+<path d="M66 128 L104 92 L128 116 L148 98 L176 128 L176 138 L66 138 Z" fill="#4caf6d"/>
+<g stroke="#9a9aa2" stroke-width="6" stroke-linecap="round">
+<line x1="66" y1="158" x2="176" y2="158"/><line x1="66" y1="178" x2="150" y2="178"/>
+</g>
+<circle cx="168" cy="176" r="34" fill="#ffffff" fill-opacity="0.25" stroke="#5a5a64" stroke-width="10"/>
+<line x1="192" y1="202" x2="216" y2="228" stroke="#5a5a64" stroke-width="14" stroke-linecap="round"/>
+</svg>
